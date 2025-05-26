@@ -4,7 +4,7 @@ This is the code for the Pattern Recognition Paper:
 
 ## Citation
 Please cite our paper if you use the code:  
-'''
+```
 @article{yun2025extremely,
   title={Extremely fast graph integration for semi-supervised learning via Gaussian fields with Neumann approximation},
   author={Yun, Taehwan and Kim, Myung Jun and Shin, Hyunjung},
@@ -14,4 +14,4 @@ Please cite our paper if you use the code:
   year={2025},
   publisher={Elsevier}
 }
-'''
+```

@@ -1,6 +1,6 @@
 # Fast Graph Integration with Neumann Approximation
 ## Paper
-This is the code for the Pattern Recognition Paper: 
+This is the code for the Pattern Recognition Paper: [Extremely fast graph integration for semi-supervised learning via Gaussian fields with Neumann approximation](https://doi.org/10.1016/j.patcog.2025.111495)
 
 ## Citation
 Please cite our paper if you use the code:  
